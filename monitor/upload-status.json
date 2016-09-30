@@ -1,0 +1,17 @@
+{
+  "device": "openaps://pipan", 
+  "pump": {
+    "clock": "2016-09-30T14:30:23-07:00"
+  }, 
+  "openaps": {
+    "iob": {
+      "netbasalinsulin": -0.05, 
+      "timestamp": "2016-09-30T21:30:56.000Z", 
+      "activity": 0.0149, 
+      "basaliob": 0.008, 
+      "hightempinsulin": 0.45, 
+      "bolussnooze": 0.4, 
+      "iob": 1.76
+    }
+  }
+}
