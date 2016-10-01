@@ -1,0 +1,28 @@
+{
+  "device": "openaps://pipan", 
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.36
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-10-01T13:21:36.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 38.4, 
+    "clock": "2016-10-01T06:21:01-07:00"
+  }, 
+  "openaps": {
+    "iob": {
+      "netbasalinsulin": 2.45, 
+      "timestamp": "2016-10-01T13:21:51.000Z", 
+      "activity": 0.012, 
+      "basaliob": 0.784, 
+      "hightempinsulin": 2.5, 
+      "bolussnooze": 0, 
+      "iob": 0.784
+    }
+  }
+}
