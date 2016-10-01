@@ -1,7 +1,0 @@
-{
-  "device": "openaps://pipan", 
-  "pump": {
-    "clock": "2016-09-30T21:57:25-07:00"
-  }, 
-  "openaps": {}
-}
