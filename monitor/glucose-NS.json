@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "57f021f280904c71bb7a4408",
+    "device": "xDrip-DexcomShare",
+    "date": 1475355094120,
+    "dateString": "2016-10-01T13:51:34.120-0700",
+    "sgv": 141,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 162000,
+    "unfiltered": 166000,
+    "rssi": 100,
+    "noise": 1,
+    "xDrip_filtered_calculated_value": 0,
+    "sysTime": "2016-10-01T13:51:34.120-0700",
+    "glucose": 141
+  },
+  {
+    "_id": "57f0211780904c71bb7a4403",
+    "device": "xDrip-DexcomShare",
+    "date": 1475354793463,
+    "dateString": "2016-10-01T13:46:33.463-0700",
+    "sgv": 136,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 157000,
+    "unfiltered": 162000,
+    "rssi": 100,
+    "noise": 1,
+    "xDrip_filtered_calculated_value": 0,
+    "sysTime": "2016-10-01T13:46:33.463-0700",
+    "glucose": 136
+  },
+  {
+    "_id": "57f01f9880904c71bb7a43f2",
+    "device": "xDrip-DexcomShare",
+    "date": 1475354494079,
+    "dateString": "2016-10-01T13:41:34.079-0700",
+    "sgv": 133,
+    "direction": "NOT COMPUTABLE",
+    "type": "sgv",
+    "filtered": 150000,
+    "unfiltered": 159000,
+    "rssi": 100,
+    "noise": 1,
+    "xDrip_filtered_calculated_value": 0,
+    "sysTime": "2016-10-01T13:41:34.079-0700",
+    "glucose": 133
+  },
+  {
+    "_id": "57f01fd180904c71bb7a43f7",
+    "_type": "TempBasalDuration",
+    "_description": "TempBasalDuration 2016-10-01T13:41:25 head[2], body[0] op[0x16]",
+    "timestamp": "2016-10-01T13:41:25-07:00",
+    "_body": "",
+    "_head": "1601",
+    "duration (min)": 30,
+    "_date": "99a90d4110",
+    "dateString": "2016-10-01T13:41:25-07:00",
+    "medtronic": "TempBasalDuration",
+    "type": "medtronic",
+    "date": 1475354485000
+  },
+  {
+    "_id": "57f01fd180904c71bb7a43f6",
+    "_type": "TempBasal",
+    "temp": "absolute",
+    "_description": "TempBasal 2016-10-01T13:41:25 head[2], body[1] op[0x33]",
+    "timestamp": "2016-10-01T13:41:25-07:00",
+    "_body": "00",
+    "_head": "3348",
+    "rate": 1.8,
+    "_date": "99a90d4110",
+    "dateString": "2016-10-01T13:41:25-07:00",
+    "medtronic": "TempBasal",
+    "type": "medtronic",
+    "date": 1475354485000
+  },
+  {
+    "_id": "57f01ea480904c71bb7a43e6",
+    "device": "xDrip-DexcomShare",
+    "date": 1475354193593,
+    "dateString": "2016-10-01T13:36:33.593-0700",
+    "sgv": 131,
+    "direction": "NOT COMPUTABLE",
+    "type": "sgv",
+    "filtered": 143000,
+    "unfiltered": 157000,
+    "rssi": 100,
+    "noise": 1,
+    "xDrip_filtered_calculated_value": 0,
+    "sysTime": "2016-10-01T13:36:33.593-0700",
+    "glucose": 131
+  },
+  {
+    "_id": "57f01c5c80904c71bb7a43c5",
+    "device": "xDrip-DexcomShare",
+    "date": 1475353293654,
+    "dateString": "2016-10-01T13:21:33.654-0700",
+    "sgv": 104,
+    "direction": "FortyFiveUp",
+    "type": "sgv",
+    "filtered": 125000,
+    "unfiltered": 135000,
+    "rssi": 100,
+    "noise": 1,
+    "xDrip_filtered_calculated_value": 0,
+    "sysTime": "2016-10-01T13:21:33.654-0700",
+    "glucose": 104
+  },
+  {
+    "_id": "57f019b580904c71bb7a43ae",
+    "device": "xDrip-DexcomShare",
+    "date": 1475352993712,
+    "dateString": "2016-10-01T13:16:33.712-0700",
+    "sgv": 96,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 121000,
+    "unfiltered": 128000,
+    "rssi": 100,
+    "noise": 1,
+    "xDrip_filtered_calculated_value": 0,
+    "sysTime": "2016-10-01T13:16:33.712-0700",
+    "glucose": 96
+  },
+  {
+    "_id": "57f01f7980904c71bb7a43ef",
+    "unknown_byte[8]": 0,
+    "_type": "BolusWizard",
+    "bg": 0,
+    "_byte[5]": 0,
+    "unknown_byte[10]": 0,
+    "_description": "BolusWizard 2016-10-01T13:11:06 head[2], body[13] op[0x5b]",
+    "timestamp": "2016-10-01T13:11:06-07:00",
+    "_body": "1e50141e6e000f000000000f73",
+    "bg_target_high": 115,
+    "sensitivity": 30,
+    "carb_ratio": 20,
+    "food_estimate": 1.5,
+    "unabsorbed_insulin_total": 0,
+    "correction_estimate": 0,
+    "carb_input": 30,
+    "_head": "5b00",
+    "unabsorbed_insulin_count": "??",
+    "_byte[7]": 0,
+    "bolus_estimate": 1.5,
+    "_date": "868b0d0110",
+    "bg_target_low": 110,
+    "dateString": "2016-10-01T13:11:06-07:00",
+    "medtronic": "BolusWizard",
+    "type": "medtronic",
+    "date": 1475352666000
+  },
+  {
+    "_id": "57f01f7980904c71bb7a43ed",
+    "_type": "Bolus",
+    "_description": "Bolus 2016-10-01T13:11:06 head[4], body[0] op[0x01]",
+    "timestamp": "2016-10-01T13:11:06-07:00",
+    "_body": "",
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus",
+        "_description": "UnabsorbedInsulinBolus unknown head[17], body[0] op[0x5c]",
+        "_body": "",
+        "_head": "5c1114934464d9447a01540a0b54402954",
+        "data": [
+          {
+            "amount": 0.5,
+            "age": 147
+          },
+          {
+            "amount": 2.5,
+            "age": 217
+          },
+          {
+            "amount": 3.05,
+            "age": 257
+          },
+          {
+            "amount": 0.25,
+            "age": 267
+          },
+          {
+            "amount": 1.6,
+            "age": 297
+          }
+        ],
+        "_date": ""
+      }
+    ],
+    "programmed": 1.5,
+    "duration": 0,
+    "amount": 1.5,
+    "_head": "010f0f00",
+    "type": "medtronic",
+    "_date": "868b4d0110",
+    "dateString": "2016-10-01T13:11:06-07:00",
+    "medtronic": "Bolus",
+    "date": 1475352666000
+  }
+]
