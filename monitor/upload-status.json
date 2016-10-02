@@ -1,0 +1,5 @@
+{
+  "device": "openaps://pipan", 
+  "pump": {}, 
+  "openaps": {}
+}
